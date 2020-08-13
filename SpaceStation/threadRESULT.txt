@@ -1,0 +1,8 @@
+Image downloaded from somewhere very far away 
+It took 3391 milliseconds to download the photo 
+Pi(3.141592651589258) calculated with 1000000000 cycles
+It took 4711 milliseconds to calculate pi
+Each unit of jackson's fleet got 698.80859375 of coins 
+It took 6172 milliseconds to pay coins to the whole fleet
+jackson's fleet of 512 units has been cleaned 
+It took 11499 milliseconds to clean the whole fleet
